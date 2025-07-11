@@ -1,5 +1,5 @@
 # <img src="https://github.com/PranavTJ-05/PocketBills/blob/main/app/src/main/res/drawable/ic_logo.png" alt="logo" width="40"/> PocketBills 💲 
-A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [Pranav TJ](https://github.com/PranavTJ-05/)*
+A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. 
 
 <img src="https://github.com/PranavTJ-05/PocketBills/blob/main/app/src/main/res/drawable/Title_banner_pocketBills.png" alt="logo" width="2000"/>
 
