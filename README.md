@@ -5,14 +5,7 @@ A Simple Expense Tracker App 📱 built to demonstrate the use of modern android
 
 <br />
 
-## Team Members :
 
-### Team Leader : Pranav TJ
-### Member 1 : Harsha 
-### Member 2 : Nithilan
-### Member 3 : Sravan
-
-<br />
 
 
 ## Built With 🛠
